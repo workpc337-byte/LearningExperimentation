@@ -1,0 +1,11 @@
+prefix=/home/supriyo/01-Learning/Learning_env
+exec_prefix=/home/supriyo/01-Learning/Learning_env
+libdir=/home/supriyo/01-Learning/Learning_env/lib
+includedir=/home/supriyo/01-Learning/Learning_env/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

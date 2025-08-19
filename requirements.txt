@@ -1,0 +1,7 @@
+pandas
+numpy
+certifi
+pymongo
+ipykernel
+
+#conda activate /home/supriyo/01-Learning/Learning_env
